@@ -25,12 +25,16 @@
 /*#### Color section in the style page   ####*/
 
 #colors {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content : center;
+
+
+
   text-align : center;
  text-transform: uppercase;
  font-size: 2em;
+ list-style-type: none;
+  flex-wrap: wrap;
+  align-items: center;
+
 
 }
 
